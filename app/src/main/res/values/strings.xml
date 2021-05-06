@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo Simple Click</string>
+    <string name="display">Display</string>
+    <string name="hint">Enter Something</string>
+    <string name="tvData">Display what the user enters</string>
+    <string name="rbMale">Male</string>
+    <string name="rbFemale">Female</string>
+</resources>
